@@ -1,4 +1,4 @@
 # second
 ##welcome to my git hib
 **thank you for visiting my git hub
-**https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9iNG8n8qtW0xy6qpdD9ia3jFjBcI_zksHdKw3USZRocebqAHnESOzia4&s=10**
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/f38e35a2-986f-4537-8ae3-b5092942a449" />
