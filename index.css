@@ -1,0 +1,20 @@
+body{
+    background-color: #283954;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+p{
+    color: whitesmoke;
+}
+h1{
+  color: whitesmoke;
+}
+div{
+    background-color: black;
+    color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
